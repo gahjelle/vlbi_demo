@@ -1,0 +1,19 @@
+Notes about this SOFA installation
+==================================
+
+The version/issue of the SOFA library currently installed can be found
+in the 00READ.ME file.
+
+This software is downloaded from the SOFA website
+http://www.iausofa.org/current.html
+
+For this demo, only a few of the SOFA routines are needed. The other files have
+been deleted. You should download from the SOFA website if you need the full
+library.
+
+To compile into Python the f2py-program was used. See more info at
+http://docs.scipy.org/doc/numpy-dev/f2py/
+
+Contact:
+Geir Arne Hjelle <geir.arne.hjelle@kartverket.no>
+
